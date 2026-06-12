@@ -24,9 +24,7 @@ Bạn có thể tương tác với Bot thông qua hai kênh sau:
 - **Tìm kiếm:** Tìm kiếm Official Account (OA) của **Hộ Kinh Doanh 2026**.
 - **Bắt đầu:** Nhắn tin chào hoặc gửi yêu cầu tư vấn.
 - **Lưu ý:** Bot hỗ trợ phản hồi tức thì cho mọi người dùng.
-- <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2489d4c6-b6a4-4433-a26f-ffdf79a1cc43" />
-<img width="200" height="300" alt="HKD Tele" src="https://github.com/user-attachments/assets/47e486a7-d0b2-4f99-9b4e-85f2a43014dc" />
-
+- <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2489d4c6-b6a4-4433-a26f-ffdf79a1cc43" /><img width="200" height="300" alt="HKD Tele" src="https://github.com/user-attachments/assets/47e486a7-d0b2-4f99-9b4e-85f2a43014dc" />
 
 ## 📚 Cấu trúc dữ liệu trong Repository
 - `/knowledge/`: Chứa toàn bộ tri thức cốt lõi.
