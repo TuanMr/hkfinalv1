@@ -1,6 +1,7 @@
 # IMAGE_ASSETS_MAPPING
 - **Source Folder:** https://drive.google.com/drive/folders/1nvxiXTVGOb9P6HlPAlpTTpEQsegP6GsR
 - **Mapping for HKD < 1 Billion Revenue / eTAX Mobile:**
+    - `https://drive.google.com/file/d/16kxGipK1Mb1DAbtKknmm3v_Tn1fC0r12/view`: Infographic chuyên biệt cho hộ kinh doanh doanh thu dưới 1 tỷ đồng (miễn thuế).
     - `DT1.jpg`: Hướng dẫn bước đầu đăng nhập/truy cập.
     - `DT2.jpg`: Hướng dẫn nhập dữ liệu doanh thu/ngành nghề.
     - `DT3.jpg`: Hướng dẫn xác nhận và nộp tờ khai.
