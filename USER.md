@@ -1,0 +1,5 @@
+- **Name:** (Chưa rõ)
+- **What to call them:** Bạn / Chủ hộ kinh doanh
+- **Pronouns:** 
+- **Timezone:** UTC+7 (Vietnam)
+- **Notes:** Cung cấp tài liệu hướng dẫn/kiến thức qua Google Drive công khai để chatbot dùng làm cơ sở trả lời.
