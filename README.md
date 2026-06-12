@@ -24,7 +24,7 @@ Bạn có thể tương tác với Bot thông qua hai kênh sau:
 - **Tìm kiếm:** Tìm kiếm Official Account (OA) của **Hộ Kinh Doanh 2026**.
 - **Bắt đầu:** Nhắn tin chào hoặc gửi yêu cầu tư vấn.
 - **Lưu ý:** Bot hỗ trợ phản hồi tức thì cho mọi người dùng.
-- <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/2489d4c6-b6a4-4433-a26f-ffdf79a1cc43" />
+- <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/2489d4c6-b6a4-4433-a26f-ffdf79a1cc43" />
 
 
 ## 📚 Cấu trúc dữ liệu trong Repository
