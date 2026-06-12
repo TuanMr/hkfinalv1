@@ -14,3 +14,6 @@
 
 - **Mapping for HKD Revenue > 3 Billion:**
     - `https://drive.google.com/file/d/1WRFkriyAvFvJy3l4rpfwXPeJzSUzae3p/view`: Infographic chuyên biệt cho hộ kinh doanh doanh thu trên 3 tỷ đồng (hướng dẫn tính thuế TNCN 17%, chi phí được trừ và hóa đơn điện tử).
+
+- **Mapping for Digital Platform Business (Kinh doanh nền tảng số):**
+    - `https://drive.google.com/file/d/1ARc3az-QFYKnog0vtAhJ8tWRQgXUWPiC/view`: Infographic hướng dẫn chi tiết cho hộ kinh doanh trên các nền tảng số (Shopee, TikTok, Facebook, v.v.).
