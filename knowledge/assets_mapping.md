@@ -8,7 +8,7 @@
     - `inforgraphic về Quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh.pdf`: Tổng quan chính sách thuế và quản lý thuế đối với hộ kinh doanh.
 
 - **Mapping for HKD Revenue 1B to 3B:**
-    - `inforgraphic về Quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh.pdf`: Tổng quan chính sách thuế, đặc biệt là ngưỡng 1 tỷ và 3 tỷ.
+    - `https://drive.google.com/file/d/1SN4VVyqSKHp4mLWSsRa6dudyfXUtwDjx/view`: Infographic chuyên biệt cho hộ kinh doanh doanh thu từ 1 tỷ đến 3 tỷ đồng.
     - `SỔ TAY Hướng dẫn HKD.pdf`: Tài liệu chi tiết về vận hành, sổ sách cho hộ quy mô trung bình.
 
 - **Mapping for HKD Revenue > 3 Billion:**
